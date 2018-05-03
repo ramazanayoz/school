@@ -1,0 +1,1 @@
+Your program will accept two separate unsorted input files of numbers with equal number of lines as input. Each number is separated by EOL. Load first file into a LinkedList and then load second file into a LinkedList. Compute the pairwise product of the elements of these two lists. 

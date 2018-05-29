@@ -1,0 +1,16 @@
+The size of bool is:1 byte
+The size of char is:1 byte
+The size of int is:4 byte
+The size of arr is:40 byte 
+The size of the first element arr is pointing to:4 bytes
+The size of double is:8 bytes
+
+The address of the bool is:140721837663271
+The address of the char is:140721837663270
+The address of the int is:140721837663272
+The address of the arr is:140721837663328
+The address of the arr[1] is:140721837663332
+The address of the arr[0] is:140721837663328
+The address of the double is:140721837663280
+Can you type the address of arr[2] and press enter >>140721837663336
+YES! You guessed right!

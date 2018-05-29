@@ -1,0 +1,3 @@
+a text file with lots of words
+some words occur once and some
+words occur more than onece

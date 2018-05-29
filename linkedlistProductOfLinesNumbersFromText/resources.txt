@@ -1,7 +1,0 @@
-https://stackoverflow.com/questions/4505381/perl-read-line-by-line
-http://jkorpela.fi/perl/regexp.html
-https://www.regextester.com/21
-https://rosettacode.org/wiki/Singly-linked_list/Element_definition
-http://blogs.perl.org/users/shawnhcorey/2012/05/a-look-at-arrays.html
-linked list kullanımı http://grokbase.com/t/perl/beginners/05bg9bbv5q/linked-lists-in-perl
-perl öğren örneklerle https://www.learn-perl.org/

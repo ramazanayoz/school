@@ -1,4 +1,3 @@
-package plHomework;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -6,7 +5,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 
 
-public class plHw {
+public class pl {
 	
 	 static LinkedList<Integer> linkedlist;
 	 static LinkedList<Integer> linkedlist2;
@@ -17,8 +16,8 @@ public class plHw {
 	         linkedlist = new LinkedList<Integer>();
 	         linkedlist2 = new LinkedList<Integer>();
 	         
-	 		readfile("/home/r.ayoz15/Desktop/plhw", linkedlist);
-			readfile("/home/r.ayoz15/Desktop/plhw2", linkedlist2);
+	 		readfile("plhw", linkedlist);
+			readfile("plhw2", linkedlist2);
 			
 			
 			

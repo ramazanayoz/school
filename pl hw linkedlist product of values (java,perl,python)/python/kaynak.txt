@@ -1,0 +1,13 @@
+read file http://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+
+read file line by line https://stackoverflow.com/questions/8009882/how-to-a-read-large-file-line-by-line-in-python
+
+while python  https://www.w3schools.com/python/python_while_loops.asp
+
+python if an element of a list is empty https://stackoverflow.com/questions/8411889/how-do-i-check-in-python-if-an-element-of-a-list-is-empty
+Python regex for integer?  https://stackoverflow.com/questions/8586346/python-regex-for-integer
+
+python read only integers from file	https://stackoverflow.com/questions/40831361/python-read-only-integers-from-file
+
+
+Short way to convert string to int Python 3	https://stackoverflow.com/questions/41837247/short-way-to-convert-string-to-int-python-3

@@ -1,0 +1,10 @@
+iki tane dosyadan (satır numarası satır sayısı olan
+2
+3
+4
+5
+6 
+
+gibi bunları 2 tane ayrı linkendliste aktar sonra aynı satırdakileri
+
+çarpımının çıtısını veren output göster 
